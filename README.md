@@ -25,15 +25,15 @@ With this script you will be able to clone 12 PB keys in large amounts.
 - `OUTPUT_FILE` (default: `output.txt`) - file to append generated keys
 - `OUTPUT_FORMAT` (default: `{key} | {referral_count}`) - output format
 
-## Notes
-
-You can use ipv6 proxy as far as ipv4 proxy if they don't block Warp API endpoint.
-
-## How to Get Your Own 12PB Key
+## How to Get Your Own 12PB Key (BASE_KEYS)
 
 1. Visit [Warp+ Telegram Bot](https://t.me/generatewarpplusbot).
 2. The bot will process your request and generate a 12PB key for you. It may take a few moments.
 3. Once the key is generated, the bot will display it in the chat window. Make sure to copy the entire key.
+
+## Notes
+
+You can use ipv6 proxy as far as ipv4 proxy if they don't block Warp API endpoint.
 
 ## Contributing
 
