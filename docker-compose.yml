@@ -1,0 +1,12 @@
+version: "3.3"
+services:
+  warp-cloner:
+    image: "ghcr.io/ilyasaftr/warp-cloner:latest"
+    container_name: "warp-cloner"
+    environment:
+      - BASE_KEYS=397Npr2h-e86Rw0H4-a38nzO62
+      - THREADS_COUNT=1
+      - PROXY_FILE=
+      - DELAY=25
+      - OUTPUT_FILE=output.txt
+      - OUTPUT_FORMAT={key} | {referral_count}
