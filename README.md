@@ -29,6 +29,12 @@ With this script you will be able to clone 12 PB keys in large amounts.
 
 You can use ipv6 proxy as far as ipv4 proxy if they don't block Warp API endpoint.
 
+## How to Get Your Own 12PB Key
+
+1. Visit [Warp+ Telegram Bot](https://t.me/generatewarpplusbot).
+2. The bot will process your request and generate a 12PB key for you. It may take a few moments.
+3. Once the key is generated, the bot will display it in the chat window. Make sure to copy the entire key.
+
 ## Contributing
 
 I will support this project as far as I can, but issues and pull requests are always welcome!
